@@ -1,0 +1,22 @@
+asyncapi: 2.6.0
+info:
+  title: Topic prediction of immigration-related text
+  version: '0.1.0'
+defaultContentType: application/json
+channels:
+  topic_prediction:
+    publish:
+      message:
+        payload:
+          type: object
+          properties:
+            text:
+              type: object
+              properties:
+                moral:
+                  type: string
+                topic:
+                  type: string
+            theta:
+              type: float
+              default: 0
