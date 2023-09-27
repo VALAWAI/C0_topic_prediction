@@ -43,6 +43,6 @@ arXiv preprint arXiv:2203.05794
 
 <a id="2">[2]</a> 
 Brugnoli E, Gravino P, Prevedello G (2023).
-Moral Foundations Theory's values in social media post.
+Moral values in social media for disinformation and hate speech analysis.
 VALE workshop at ECAI (accepted)
 
